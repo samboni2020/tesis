@@ -1,0 +1,53 @@
+
+\input{preambulos/config}
+
+
+\begin{document}
+
+\pagenumbering{roman}
+
+%\include{porta_c^over/portada}
+
+\renewcommand{\tablename}{\textbf{Tabla}}
+\renewcommand{\figurename}{\textbf{Figura}}
+\renewcommand{\listtablename}{Lista de tablas}
+\renewcommand{\listfigurename}{Lista de figuras}
+\renewcommand{\contentsname}{Contenido}
+
+
+% Tabla de contenidos
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Contenido}
+\tableofcontents
+
+
+%\newcommand{\clearemptydoublepage}{\newpage{\pagestyle{empty}\cleardoublepage}}
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Lista de figuras} % para que aparezca en el indice de contenidos
+\listoffigures % indice de figuras
+
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Lista de tablas} % para que aparezca en el indice de contenidos
+\listoftables % indice de tablas
+
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Lista de abreviaturas} 
+\include{preambulos/abreviaturas} % Include your list of abbreviations
+
+%\include{Resumen}%\newcommand{\clearemptydoublepage}{\newpage{\pagestyle{empty}\cleardoublepage}}¸
+\pagenumbering{arabic}
+\include{chap/cap1}
+\include{chap/cap2}
+\include{chap/cap2a}
+\include{chap/cap3}
+\include{chap/cap4}
+%\include{chap/cap5}
+\include{chap/cap6}
+\include{Anexos/apendixA}
+%\include{Anexos/Anexos}
+
+\addcontentsline{toc}{chapter}{\numberline{}Bibliografía}
+\bibliographystyle{plain}
+\bibliography{biblio}
+
+\end{document}

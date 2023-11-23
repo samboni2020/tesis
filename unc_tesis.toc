@@ -1,0 +1,49 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Contenido}{\es@scroman {i}}{Doc-Start}%
+\contentsline {chapter}{Lista de figuras}{\es@scroman {v}}{chapter*.1}%
+\contentsline {chapter}{Lista de tablas}{\es@scroman {vii}}{chapter*.7}%
+\contentsline {chapter}{Lista de abreviaturas}{\es@scroman {ix}}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Membrana biológica}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Integrinas}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Motivación y objetivo de la tesis}{2}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Metodología}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Metodología experimental}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Plásmidos, reactivos, equipos y materiales}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Extracción y clonación de plásmidos}{4}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Expresión y purificación proteína fusión}{5}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Clivaje y diálisis}{5}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Repurificación por \ac {hplc}}{5}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Electroforesis en gel y \ac {em}}{6}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Experimentos de monocapas de Langmuir}{7}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Análisis de datos}{7}{subsection.2.1.8}%
+\contentsline {section}{\numberline {2.2}Metodología computacional}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Preparación de los sistemas}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Análisis de trayectorias}{8}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}Generalidades, expresión y purificación de segmentos transmembrana de integrinas $\alpha $IIb/$\beta $3}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Estructura secundaria de polipéptidos}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Expresión y purificación de péptidos transmembrana}{12}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Interacción lípido-péptido en monocapas de Langmuir}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Monocapas de Langmuir}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Transiciones de fase en monocapas}{18}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Monocapas de péptidos puros}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Monocapas de Langmuir para mezclas lípido-péptido}{24}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Análisis de la miscibilidad de mezclas lípido-péptido}{26}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Potencial de superficie y momento dipolar en mezclas lípido-péptido}{31}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Análisis de la elasticidad lateral}{34}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Discusión general del capítulo}{37}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Conformación de segmentos \ac {tm}-\ac {ic} de integrinas $\alpha $IIb/$\beta $3: Rol del ambiente lipídico}{39}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusiones y recomendaciones}{49}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusiones}{49}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Recomendaciones}{49}{section.6.2}%
+\contentsline {chapter}{\numberline {A}Protocolo extracción y clonación de plásmidos}{51}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Protocolo expresión, lisis y purificación de proteína fusión}{59}{appendix.Alph2}%
+\contentsline {subsection}{\numberline {B.0.1}Expresión}{59}{subsection.Alph2.0.1}%
+\contentsline {section}{\numberline {B.1}Lisis de células}{60}{section.Alph2.1}%
+\contentsline {section}{\numberline {B.2}Purificación por \ac {fplc}}{61}{section.Alph2.2}%
+\contentsline {section}{\numberline {B.3}Concentrar y desalar proteína fusión}{62}{section.Alph2.3}%
+\contentsline {section}{\numberline {B.4}Protocolo de clivaje y diálisis}{62}{section.Alph2.4}%
+\contentsline {chapter}{\numberline {C}Protocolo \ac {hplc}}{65}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {D}Protocolo monocapas}{67}{appendix.Alph4}%
+\contentsline {subsection}{\numberline {D.0.1}Campo de fuerza MARTINI}{68}{subsection.Alph4.0.1}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }\leftprotrusion Bibliografía}{71}{figure.caption.78}%

@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: unc_tesis.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: preambulos/abreviaturas.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chap/cap1.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chap/cap2.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: chap/cap2a.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chap/cap3.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chap/cap4.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chap/cap6.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Anexos/apendixA.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: biblio.bib
+Warning--there's a number but no series in Hadjittofis2017
+Warning--empty publisher in Hadjittofis2017
+Warning--empty journal in Electronics1994
+Warning--can't use both volume and number fields in Maget-Dana1999
+Warning--empty publisher in Maget-Dana1999
+Warning--empty publisher in Weder2003
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            658 strings with 8203 characters,
+and the built_in function-call counts, 7178 in all, are:
+= -- 709
+> -- 370
+< -- 3
++ -- 145
+- -- 126
+* -- 597
+:= -- 1200
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 118
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 225
+empty$ -- 524
+format.name$ -- 126
+if$ -- 1446
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 21
+newline$ -- 98
+num.names$ -- 38
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 101
+quote$ -- 0
+skip$ -- 151
+stack$ -- 0
+substring$ -- 545
+swap$ -- 32
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 6
+while$ -- 70
+width$ -- 21
+write$ -- 208
+(There were 6 warnings)
